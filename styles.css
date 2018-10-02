@@ -1,0 +1,26 @@
+h1 {
+    color: black
+}
+h2 {
+    color: purple;
+}
+#p1 {
+    color: orange
+}
+#p2 {
+    color: green
+}
+.tacos {
+    font-size: 25px;
+    text-align: center
+}
+#p3 {
+    color: seagreen;
+    font-size: 45px;
+    border-style: dotted;
+    border-radius: 25cm;
+    text-align: center
+}
+.display-4 {
+    color: purple
+}
